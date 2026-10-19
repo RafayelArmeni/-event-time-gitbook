@@ -1,6 +1,6 @@
 # All modules
 
-Search for **Event Time** in the page editor's **Add** panel to see every module. Each module has a **Content** tab for text and images and a **Style** tab (see [Section style and the Style tab](../customize/style-tab.md)).
+Find any module in the page editor's **Add** panel by searching for its name. Each module has a **Content** tab for text and images and a **Style** tab (see [Section style and the Style tab](../customize/style-tab.md)).
 
 | Module | What it's for | Details |
 |---|---|---|
@@ -13,7 +13,7 @@ Search for **Event Time** in the page editor's **Add** panel to see every module
 | Speakers | Speaker grid with photos and social links | [Speakers](people-and-media.md#speakers) |
 | Testimonials | Quotes in 5 layouts with ratings and video | [Testimonials](people-and-media.md#testimonials) |
 | About with video | Intro, highlights, key numbers and a video | [About with video](people-and-media.md#about-with-video) |
-| Gallery | Photo grid or mosaic with a full-screen viewer | [Gallery](people-and-media.md#gallery) |
+| Photo gallery | Photo grid or mosaic with a full-screen viewer | [Photo gallery](people-and-media.md#photo-gallery) |
 | Pricing tickets | Ticket cards with a highlighted plan | [Pricing tickets](tickets-and-sponsors.md#pricing-tickets) |
 | Sponsor tiers | Sponsor logos grouped by level | [Sponsor tiers](tickets-and-sponsors.md#sponsor-tiers) |
 | Logo strip | Logos as a grid or a scrolling strip | [Logo strip](tickets-and-sponsors.md#logo-strip) |

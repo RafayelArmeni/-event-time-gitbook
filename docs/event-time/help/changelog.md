@@ -11,3 +11,4 @@ First release.
 * 10 ready-made sections
 * Section style and Custom styles on every module, including hover and active states
 * Dark and light color schemes
+* Language switcher in the header for multi-language sites

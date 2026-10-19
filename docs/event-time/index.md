@@ -1,16 +1,13 @@
----
-description: A complete HubSpot website for conferences, summits, webinars and meetups.
-cover: .gitbook/assets/cover.jpg
-coverY: 0
----
 
 # Welcome to Event Time
+
+![Event Time](assets/cover.jpg)
 
 Event Time is a HubSpot CMS theme for event websites. It gives you everything from the first "save the date" page to the thank-you page after registration.
 
 **Live demo:** [pixtheme.com/event-time-demo](https://www.pixtheme.com/event-time-demo)
 
-![Five home page layouts](.gitbook/assets/home-layouts.jpg)
+![Five home page layouts](assets/home-layouts.jpg)
 
 ## What's included
 
@@ -25,17 +22,13 @@ Event Time is a HubSpot CMS theme for event websites. It gives you everything fr
 
 ## Where to start
 
-{% content-ref url="getting-started/install.md" %}
-[install.md](getting-started/install.md)
-{% endcontent-ref %}
+<div class="grid cards" markdown>
 
-{% content-ref url="getting-started/build-your-site.md" %}
-[build-your-site.md](getting-started/build-your-site.md)
-{% endcontent-ref %}
+-   **[Install the theme](getting-started/install.md)**
+-   **[Build your event site](getting-started/build-your-site.md)**
+-   **[Section style and the Style tab](customize/style-tab.md)**
 
-{% content-ref url="customize/style-tab.md" %}
-[style-tab.md](customize/style-tab.md)
-{% endcontent-ref %}
+</div>
 
 ## Requirements
 

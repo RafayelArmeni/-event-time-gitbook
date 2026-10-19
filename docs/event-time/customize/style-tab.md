@@ -2,7 +2,7 @@
 
 Every Event Time module has a **Style** tab in the page editor. Use it to make one section look different from the rest of the page. Empty fields keep the theme design, so you only set what you want to change.
 
-![Dark and light sections](../.gitbook/assets/dark-light.jpg)
+![Dark and light sections](../assets/dark-light.jpg)
 
 ## Section style
 
@@ -16,9 +16,9 @@ The quickest way to change a section. Choose one of:
 | **Tinted background** | A softly colored background to separate the section |
 | **Brand gradient** | Full brand-gradient background with white text, great for call-to-action sections |
 
-{% hint style="success" %}
-**Tip:** alternate **Same as the page** and **Tinted background** down a long page to give it rhythm without changing any colors.
-{% endhint %}
+!!! tip
+
+    Alternate **Same as the page** and **Tinted background** down a long page to give it rhythm without changing any colors.
 
 ## Custom styles
 
@@ -35,6 +35,6 @@ For full control, open **Custom styles**:
 
 Custom styles work on top of the section style. For example, choose **Light** and then set a custom card background.
 
-{% hint style="info" %}
-The **Testimonials** module has its own, larger **Styles** tab with layout-specific options.
-{% endhint %}
+!!! note
+
+    The **Testimonials** module has its own, larger **Styles** tab with layout-specific options.

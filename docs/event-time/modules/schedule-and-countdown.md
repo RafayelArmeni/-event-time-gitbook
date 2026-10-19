@@ -14,9 +14,9 @@ The event agenda, with one tab per day.
 | Button below the schedule | Optional, for example "Download the full agenda". |
 | Labels | The badge names and the speaker prefix. Translate them if needed. |
 
-{% hint style="info" %}
-A one-day event? Add just one day. The tabs are hidden when there's only one.
-{% endhint %}
+!!! note
+
+    A one-day event? Add just one day. The tabs are hidden when there's only one.
 
 ## Countdown
 

@@ -1,4 +1,4 @@
-# Speakers, testimonials and gallery
+# Speakers, testimonials and photo gallery
 
 ## Speakers
 
@@ -10,9 +10,9 @@ A grid of speaker cards.
 | Speakers per row on desktop | Usually 4. Phones show fewer automatically. |
 | Button below the speakers | For example "See all speakers". |
 
-{% hint style="info" %}
-Use square photos of the same size (at least 600 × 600 px) so all cards line up.
-{% endhint %}
+!!! note
+
+    Use square photos of the same size (at least 600 × 600 px) so all cards line up.
 
 ## Testimonials
 
@@ -41,7 +41,7 @@ An event introduction with a video.
 
 YouTube videos load from the privacy-friendly youtube-nocookie.com domain.
 
-## Gallery
+## Photo gallery
 
 A photo grid with a full-screen viewer.
 

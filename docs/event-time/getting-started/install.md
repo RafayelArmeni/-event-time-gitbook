@@ -25,9 +25,9 @@ Before building pages, open **Edit theme settings** and set:
 
 See [Theme settings](../customize/theme-settings.md) for every option.
 
-{% hint style="info" %}
-To open theme settings, edit any Event Time page, click the **Theme** icon in the left sidebar of the page editor, then **Edit theme settings**.
-{% endhint %}
+!!! note
+
+    To open theme settings, edit any Event Time page, click the **Theme** icon in the left sidebar of the page editor, then **Edit theme settings**.
 
 ## 4. Next step
 

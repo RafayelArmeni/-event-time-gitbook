@@ -1,0 +1,84 @@
+site_name: Pixtheme Docs
+site_url: https://docs.pixtheme.com/
+site_description: Setup guides for Pixtheme HubSpot themes.
+copyright: © Pixtheme
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  font:
+    text: DM Sans
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - search.highlight
+    - content.code.copy
+  icon:
+    logo: material/book-open-page-variant
+
+extra_css:
+  - assets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Event Time:
+      - Welcome to Event Time: event-time/index.md
+      - Getting started:
+          - Install the theme: event-time/getting-started/install.md
+          - Build your event site: event-time/getting-started/build-your-site.md
+          - Header and footer: event-time/getting-started/header-and-footer.md
+          - Forms and the registration flow: event-time/getting-started/forms-and-registration.md
+      - Customize:
+          - Theme settings: event-time/customize/theme-settings.md
+          - Section style and the Style tab: event-time/customize/style-tab.md
+          - Highlighted words: event-time/customize/highlighted-words.md
+          - Ready-made sections: event-time/customize/sections.md
+      - Pages:
+          - Page templates: event-time/pages/page-templates.md
+          - Blog: event-time/pages/blog.md
+          - System pages: event-time/pages/system-pages.md
+      - Modules:
+          - All modules: event-time/modules/index.md
+          - Hero, page intro and coming soon: event-time/modules/hero-and-intro.md
+          - Schedule and countdown: event-time/modules/schedule-and-countdown.md
+          - Speakers, testimonials and photo gallery: event-time/modules/people-and-media.md
+          - Tickets, sponsors and logos: event-time/modules/tickets-and-sponsors.md
+          - Venue, info cards and FAQ: event-time/modules/venue-and-info.md
+          - Forms, banners and blog posts: event-time/modules/forms-and-banners.md
+          - Thank you and error pages: event-time/modules/thank-you-and-errors.md
+      - Help:
+          - FAQ and troubleshooting: event-time/help/faq.md
+          - Support: event-time/help/support.md
+          - Changelog: event-time/help/changelog.md

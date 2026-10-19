@@ -2,13 +2,13 @@
 
 Event Time includes two blog templates:
 
-* **Event Time - Blog listing**: post cards with an optional topic filter, subscribe form and a call-to-action banner
-* **Event Time - Blog post**: the post with reading time, share buttons, topics, author box, related posts and a ticket banner
+* **Blog listing**: post cards with an optional topic filter, subscribe form and a call-to-action banner
+* **Blog post**: the post with reading time, share buttons, topics, author box, related posts and a ticket banner
 
 ## Use them for your blog
 
 1. Go to **Settings › Content › Blog** and choose your blog.
-2. Open **Templates** and choose **Event Time - Blog listing** for the listing page and **Event Time - Blog post** for posts.
+2. Open **Templates** and choose **Blog listing** for the listing page and **Blog post** for posts.
 3. Save.
 
 ## Turn features on or off

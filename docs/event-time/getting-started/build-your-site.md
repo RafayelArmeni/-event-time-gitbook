@@ -7,27 +7,27 @@ A typical event site uses these templates. Create the pages you need and skip th
 | Page | Template to choose |
 |---|---|
 | Home | One of the 5 home templates (see below) |
-| Speakers | **Event Time - Speakers** |
-| Schedule | **Event Time - Schedule** |
-| Tickets | **Event Time - Tickets** |
-| Venue | **Event Time - Venue** |
-| Sponsors | **Event Time - Sponsors** |
-| About | **Event Time - About** |
-| Contact | **Event Time - Contact** |
-| Registration thank you | **Event Time - Registration thank you** |
-| Coming soon / waitlist | **Event Time - Coming soon** (use it before tickets go on sale) |
+| Speakers | **Speakers** |
+| Schedule | **Schedule** |
+| Tickets | **Tickets** |
+| Venue | **Venue** |
+| Sponsors | **Sponsors** |
+| About | **About** |
+| Contact | **Contact** |
+| Registration thank you | **Registration thank you** |
+| Coming soon / waitlist | **Coming soon** (use it before tickets go on sale) |
 
 ## Choose a home page
 
 | Template | Best for |
 |---|---|
-| **Event Time - Home** | Dark conference site with countdown, agenda, tickets and blog posts |
-| **Event Time - Home (centered hero)** | Keynote-style layout with a centered heading and countdown |
-| **Event Time - Home (corporate summit, light)** | Light, corporate B2B summit with a photo hero |
-| **Event Time - Home (webinar or virtual event, light)** | Registration page for a webinar or online event |
-| **Event Time - Home (meetup or workshop, light)** | Small meetups and workshops with an RSVP form |
+| **Home** | Dark conference site with countdown, agenda, tickets and blog posts |
+| **Home (centered hero)** | Keynote-style layout with a centered heading and countdown |
+| **Home (corporate summit, light)** | Light, corporate B2B summit with a photo hero |
+| **Home (webinar or virtual event, light)** | Registration page for a webinar or online event |
+| **Home (meetup or workshop, light)** | Small meetups and workshops with an RSVP form |
 
-![Home page layouts](../.gitbook/assets/home-layouts.jpg)
+![Home page layouts](../assets/home-layouts.jpg)
 
 ## Create a page
 
@@ -37,13 +37,13 @@ A typical event site uses these templates. Create the pages you need and skip th
 4. Set the page URL, title and meta description in **Settings**.
 5. Click **Publish** when you're ready.
 
-{% hint style="success" %}
-Every template comes filled with realistic demo content, so you can see how each section is meant to look. Edit the text rather than starting from an empty page.
-{% endhint %}
+!!! tip
+
+    Every template comes filled with realistic demo content, so you can see how each section is meant to look. Edit the text rather than starting from an empty page.
 
 ## Add, move and remove sections
 
-* **Add** a module or section: click **+** (Add) in the left sidebar, search for "Event Time" and drag it onto the page.
+* **Add** a module or section: click **+** (Add) in the left sidebar, find it by name (for example "Schedule Tabs") and drag it onto the page.
 * **Move** a section: drag it by its handle in the page editor.
 * **Remove** a section: hover over it and click the delete icon.
 
@@ -61,4 +61,4 @@ Every template comes filled with realistic demo content, so you can see how each
 - [ ] Check the header menu and footer links
 - [ ] Preview on mobile with the device switcher in the page editor
 
-![Event Time on phones](../.gitbook/assets/mobile.jpg)
+![Event Time on phones](../assets/mobile.jpg)

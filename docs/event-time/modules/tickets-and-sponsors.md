@@ -10,9 +10,9 @@ Ticket or package cards.
 | Features | Each feature can be marked as included or not included. |
 | Highlight this plan | Makes the card stand out. Add **Badge text** such as "Most popular". |
 
-{% hint style="info" %}
-The button can link anywhere: your ticketing provider, a HubSpot payment link or a registration form page.
-{% endhint %}
+!!! note
+
+    The button can link anywhere: your ticketing provider, a HubSpot payment link or a registration form page.
 
 ## Sponsor tiers
 
@@ -36,6 +36,6 @@ Partner, sponsor or organizer logos.
 | Logos | Logo and optional link. |
 | Logo style | **Single color** or **Original colors**. |
 
-{% hint style="success" %}
-**Single color** works best with transparent PNG or SVG logos. It makes logos from different brands look consistent.
-{% endhint %}
+!!! tip
+
+    **Single color** works best with transparent PNG or SVG logos. It makes logos from different brands look consistent.

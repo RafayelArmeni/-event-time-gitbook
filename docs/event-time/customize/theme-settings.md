@@ -53,6 +53,6 @@ Turn blog features on or off: topic filter, reading time, author on post cards, 
 
 Footer background, heading color, text color and link hover color.
 
-{% hint style="info" %}
-To change just one section instead of the whole site, use that section's **Style** tab. See [Section style and the Style tab](style-tab.md).
-{% endhint %}
+!!! note
+
+    To change just one section instead of the whole site, use that section's **Style** tab. See [Section style and the Style tab](style-tab.md).

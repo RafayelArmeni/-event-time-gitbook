@@ -19,14 +19,14 @@ Choose the form in the module's **Form** field. Create forms in **Marketing › 
 3. **After registration:** in the form's settings in HubSpot, set **What should happen after a visitor submits this form?** to **Redirect to another page** and choose your **Registration thank you** page.
 4. **Thank-you page:** set the event details and the **Add to calendar** start and end times so visitors can save the event to Google Calendar, Apple Calendar or Outlook.
 
-{% hint style="info" %}
-Forms take their look from the theme automatically. You don't need to style them in the form editor.
-{% endhint %}
+!!! note
+
+    Forms take their look from the theme automatically. You don't need to style them in the form editor.
 
 ## Countdowns
 
 The hero, countdown and coming soon modules have an **Event start date and time** field. Pick the date and time in the date picker. When the countdown reaches zero, it shows the **Text after the countdown ends** instead (for example "The event is live").
 
-{% hint style="warning" %}
-Each countdown has its own date. If your event date changes, update it in every module that shows a countdown.
-{% endhint %}
+!!! warning
+
+    Each countdown has its own date. If your event date changes, update it in every module that shows a countdown.
